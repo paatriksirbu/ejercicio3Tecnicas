@@ -23,4 +23,4 @@ Este código simula un sistema de monitoreo de rendimiento para aplicaciones, ge
 
 Patrik Paul Sirbu - https://github.com/paatriksirbu
 
-Enlace del proyecto: https://github.com/paatriksirbu/ejercicio3Tecnicas.git
+Enlace del proyecto: [https://github.com/paatriksirbu/ejercicio3Tecnicas.git](https://github.com/paatriksirbu/ejercicio3Tecnicas.git)
