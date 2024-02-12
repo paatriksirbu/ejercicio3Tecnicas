@@ -1,4 +1,3 @@
-import java.nio.file.attribute.UserPrincipalLookupService;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Arrays;
@@ -14,7 +13,7 @@ class Publicacion{      //Necesitamos una clase para representar las publicacion
         return texto;
     }
 }
-public class ejercicio3 {
+public class ejercicio1 {
 
     private static final double UMBRAL_POS = 1;
     private static final double UMBRAL_NEG = -1;
